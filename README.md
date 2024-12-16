@@ -35,8 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Matheuscamp29/Matheuscamp29/output/snake.svg" alt="Snake animation" />
-
-###
