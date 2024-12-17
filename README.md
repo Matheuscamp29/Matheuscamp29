@@ -3,6 +3,7 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Matheuscamp29&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheuscamp29&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -40,5 +41,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
+
+###
+
+<h2 align="center">About Me</h2>
+
+###
+
+<p align="center">Matheus de Oliveira Campello<br><br>Education:<br>Graduated from Colégio dos Jesuítas.<br>Currently pursuing a Bachelor's degree in Computer Science at PUC Minas.<br><br>Fun Facts:<br>I am passionate about technology and committed to continuous learning. In the ever-evolving tech industry, I make it a priority to stay updated, regularly acquiring new skills to keep pace with the latest advancements.</p>
 
 ###
